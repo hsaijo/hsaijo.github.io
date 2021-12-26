@@ -2,9 +2,11 @@
 layout: homepage
 ---
 
+## About Me
+
 Welcome! I am a macroeconomist working at UCSC. 
 <br>
-Curriculum Vitae
+Please click here to download my Curriculum Vitae.
 
 ## News
 
