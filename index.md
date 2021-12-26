@@ -6,7 +6,7 @@ Curriculum Vitae
 
 ## Research Interests
 
-- **Macroeconomics**
+ **Macroeconomics**
 
 ## News
 
