@@ -12,8 +12,8 @@ Welcome! I am a macroeconomist working at UCSC.
 * **[Diagnostic Business Cycles](https://drive.google.com/file/d/1Wr_apT8fyJqtQvTzUGzJGxkyfIUDsDuK/view) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/), August 2021)**
 <br>
 Revise and Resubmit at **Review of Economic Studies**
-<br>
-We develop theoretical and methodological framework to apply diagnostic expectations to a large class of recursive macro models, with a focus on implications of memory recall based on distant past. 
+
+  We develop theoretical and methodological framework to apply diagnostic expectations to a large class of recursive macro models, with a focus on implications of memory recall based on distant past. 
 
 * **[Uncertainty Shocks in Networks](http://hsaijo.github.io/files/uncertainty_network.pdf) (August 2020)**
 
@@ -22,6 +22,7 @@ We develop theoretical and methodological framework to apply diagnostic expectat
 ## Publications
 
 * **[Learning, Confidence, and Business Cycles](http://hsaijo.github.io/files/ilut_saijo.pdf) (with [Cosmin Ilut](https://sites.google.com/site/cosminilut/))**
+<br>
   **Journal of Monetary Economics**, 2021.
   
   We propose a new propagation mechanism based on firm-level confidence dynamics that challenges and improves upon standard New Keynesian frictions.
@@ -29,7 +30,8 @@ We develop theoretical and methodological framework to apply diagnostic expectat
   ([Technical Appendix](http://hsaijo.github.io/files/ilut_saijo_appendix.pdf))
  
 * **[Redistribution and Fiscal Uncertainty Shocks](http://hsaijo.github.io/files/policy_uncertainty.pdf)**
-  **International Economic Review**, 2020.
+<br>
+**International Economic Review**, 2020.
  
   The interaction of ambiguity aversion and limited capital market participation magnifies the impact of fiscal uncertainty shocks on economic activity because concerns about redistribution have first-order effects.
   
