@@ -2,11 +2,8 @@
 layout: homepage
 ---
 
+Welcome! I am a macroeconomist working at UCSC. 
 Curriculum Vitae
-
-## Research Interests
-
- **Macroeconomics**
 
 ## News
 
