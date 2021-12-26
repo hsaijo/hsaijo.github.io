@@ -10,9 +10,10 @@ Welcome! I am a macroeconomist working at UCSC.
 ## Working Papers
 
 * **[Diagnostic Business Cycles](https://drive.google.com/file/d/1Wr_apT8fyJqtQvTzUGzJGxkyfIUDsDuK/view) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/), August 2021)**
-  Revise and Resubmit at **Review of Economic Studies**
-  
-  We develop theoretical and methodological framework to apply diagnostic expectations to a large class of recursive macro models, with a focus on implications of memory recall based on distant past. 
+<br>
+Revise and Resubmit at **Review of Economic Studies**
+<br>
+We develop theoretical and methodological framework to apply diagnostic expectations to a large class of recursive macro models, with a focus on implications of memory recall based on distant past. 
 
 * **[Uncertainty Shocks in Networks](http://hsaijo.github.io/files/uncertainty_network.pdf) (August 2020)**
 
