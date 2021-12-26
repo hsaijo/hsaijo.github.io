@@ -5,7 +5,7 @@ layout: homepage
 Welcome! I am a macroeconomist working at UCSC.
 <br>
 <br>
-[Curriculum Vitae (http://hsaijo.github.io/files/hikaru_saijo_cv.pdf)]
+[Curriculum Vitae(http://hsaijo.github.io/files/hikaru_saijo_cv.pdf)]
 
 ## News
 
