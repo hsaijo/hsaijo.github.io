@@ -11,7 +11,7 @@ Welcome! I am a macroeconomist working at UCSC.
 
 * **[Diagnostic Business Cycles](https://drive.google.com/file/d/1Wr_apT8fyJqtQvTzUGzJGxkyfIUDsDuK/view) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/), August 2021)**
   <br>
-  Revise and Resubmit at **Review of Economic Studies**
+  Revise and Resubmit at **Review of Economic Studies**.
 
   We develop theoretical and methodological framework to apply diagnostic expectations to a large class of recursive macro models, with a focus on implications of memory recall based on distant past. 
 
@@ -43,7 +43,7 @@ Welcome! I am a macroeconomist working at UCSC.
   
   Contrary to the aggregate evidence, labor supply responses to technology shocks at the household level indicate that the data is inconsistent with the sticky price view of the business cycle.
   
-  ([Working Paper version with additional results](http://hsaijo.github.io/files/hours_wp.pdf))
+  ([Working paper version with additional results](http://hsaijo.github.io/files/hours_wp.pdf))
   
 * **[The Uncertainty Multiplier and Business Cycles](http://hsaijo.github.io/files/uncertainty_multiplier.pdf)**
   <br>
