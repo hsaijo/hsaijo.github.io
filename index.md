@@ -15,9 +15,9 @@ Welcome! I am a macroeconomist working at UCSC.
 
   We develop theoretical and methodological framework to apply diagnostic expectations to a large class of recursive macro models, with a focus on implications of memory recall based on distant past. 
 
-* **[Uncertainty Shocks in Networks](http://hsaijo.github.io/files/uncertainty_network.pdf) (August 2020)**
+* **Volatility Shocks in Networks (Revised version coming soon)**
 
-  I show how sector-specific changes in uncertainty propagate through input-output networks and affect macroeconomic variables.
+  I show how sector-specific changes in volatility propagate through input-output networks and affect macroeconomic variables.
 
 ## Publications
 
