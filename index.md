@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 Welcome! I am a macroeconomist working at UCSC. 
-Pronunciation: He-Ka-Ru Sigh-Joe (Ka as in Khaki)
+Pronunciation: He-Ka-Ru Sigh-Joe (Ka as in karma)
 <br>
 <br>
 [Curriculum Vitae](http://hsaijo.github.io/files/hikaru_saijo_cv.pdf)
