@@ -8,19 +8,13 @@ Pronunciation: He-Ka-Ru Sigh-Joe (Ka as in karma)
 <br>
 [Curriculum Vitae](http://hsaijo.github.io/files/hikaru_saijo_cv.pdf)
 
-## Working Papers
+## Publications
 
 * **[Diagnostic Business Cycles](https://drive.google.com/file/d/1Wr_apT8fyJqtQvTzUGzJGxkyfIUDsDuK/view) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/), June 2022)**
   <br>
-  Conditionally accepted at **Review of Economic Studies**.
+  Accepted at **Review of Economic Studies**.
 
   We develop theoretical and methodological framework to apply diagnostic expectations to a large class of recursive macro models, with a focus on implications of memory recall based on distant past. 
-
-* **Volatility Shocks in Networks (Revised version coming soon)**
-
-  I show how sector-specific changes in volatility propagate through input-output networks and affect macroeconomic variables.
-
-## Publications
 
 * **[Learning, Confidence, and Business Cycles](http://hsaijo.github.io/files/ilut_saijo.pdf) (with [Cosmin Ilut](https://sites.google.com/site/cosminilut/))**
   <br>
@@ -65,6 +59,12 @@ Pronunciation: He-Ka-Ru Sigh-Joe (Ka as in karma)
   **The B.E. Journal of Macroeconomics: Topics**, 2008.
   
   The increase in markups due to cartelization can explain a substantial fraction of Japan's weak recovery from the Great Depression.
+  
+## Working Papers
+
+* **Volatility Shocks in Networks (Revised version coming soon)**
+
+  I show how sector-specific changes in volatility propagate through input-output networks and affect macroeconomic variables.
 
 
 ## Discussions
