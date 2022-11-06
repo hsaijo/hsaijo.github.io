@@ -10,7 +10,7 @@ Pronunciation: He-Ka-Ru Sigh-Joe (Ka as in karma)
 
 ## Publications
 
-* **[Diagnostic Business Cycles](https://drive.google.com/file/d/1Wr_apT8fyJqtQvTzUGzJGxkyfIUDsDuK/view) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/), June 2022)**
+* **[Diagnostic Business Cycles](https://drive.google.com/file/d/1Wr_apT8fyJqtQvTzUGzJGxkyfIUDsDuK/view) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/), October 2022)**
   <br>
   Accepted at **Review of Economic Studies**.
 
