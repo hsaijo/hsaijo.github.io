@@ -10,9 +10,9 @@ Pronunciation: He-Ka-Ru Sigh-Joe (Ka as in karma)
 
 ## Publications
 
-* **[Diagnostic Business Cycles](https://drive.google.com/file/d/1Wr_apT8fyJqtQvTzUGzJGxkyfIUDsDuK/view) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/), October 2022)**
+* **[Diagnostic Business Cycles](http://hsaijo.github.io/files/BIS.pdf) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/), October 2022)**
   <br>
-  Accepted at **Review of Economic Studies**.
+  Forthcoming, **Review of Economic Studies**.
 
   We develop theoretical and methodological framework to apply diagnostic expectations to a large class of recursive macro models, with a focus on implications of memory recall based on distant past. 
 
