@@ -15,6 +15,8 @@ Pronunciation: He-Ka-Ru Sigh-Joe (Ka as in karma)
   Forthcoming, **Review of Economic Studies**.
 
   We develop theoretical and methodological framework to apply diagnostic expectations to a large class of recursive macro models, with a focus on implications of memory recall based on distant past. 
+  
+  ([Technical Appendix](http://hsaijo.github.io/files/BIS_appendix.pdf))
 
 * **[Learning, Confidence, and Business Cycles](http://hsaijo.github.io/files/ilut_saijo.pdf) (with [Cosmin Ilut](https://sites.google.com/site/cosminilut/))**
   <br>
