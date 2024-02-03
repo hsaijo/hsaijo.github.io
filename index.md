@@ -12,7 +12,7 @@ Pronunciation: He-Ka-Ru Sigh-Joe (Ka as in Kamala)
 
 * **[Diagnostic Business Cycles](http://hsaijo.github.io/files/BIS.pdf) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/))**
   <br>
-  Forthcoming, **Review of Economic Studies**.
+  **Review of Economic Studies**, 2024.
 
   We develop theoretical and methodological framework to apply diagnostic expectations to a large class of recursive macro models, with a focus on implications of memory recall based on distant past. 
   
