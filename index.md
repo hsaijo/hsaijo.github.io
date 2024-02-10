@@ -64,7 +64,7 @@ Pronunciation: He-Ka-Ru Sigh-Joe (Ka as in Kamala)
   
 ## Working Papers
 
-* **[Smooth Diagnostic Expectations](http://hsaijo.github.io/files/BIS.pdf) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/))**, 2024.
+* **[Smooth Diagnostic Expectations](http://hsaijo.github.io/files/SmoothDE_0209.pdf) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/))**, 2024.
 
 
   Introducing "smooth diagnosticity": agents over-react more to less precise information. Explains stylized facts on over-reaction and over-confidence in surveys, and key features of business cycles. 
