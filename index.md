@@ -76,6 +76,8 @@ Pronunciation: He-Ka-Ru Sigh-Joe (Ka as in Kamala)
 
 ## Discussions
 
+* [Discussion](http://hsaijo.github.io/files/wu_xie_discussion.pdf) of "(Un)Conventional Monetary and Fiscal Policy” by Wu and Xie, ASSA Meeting, January 2024 
+
 * [Discussion](http://hsaijo.github.io/files/MS_slide.pdf) of "What Do Sectoral Dynamics Tell Us About the Origins of Business Cycles?” by Matthes and Schwartzman, Workshop on Methods and Applications for DSGE Models, October 2019 
 
 * [Discussion](http://hsaijo.github.io/files/BKT_slide.pdf) of "The Origins and Effects of Uncertainty Shocks" by Bianchi, Kung and Tirskikh, Workshop on Methods and Applications for DSGE Models, October 2018
