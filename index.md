@@ -10,7 +10,7 @@ Pronunciation: He-Ka-Ru Sigh-Joe (Ka as in Kamala)
 
 ## Publications
 
-* **[Diagnostic Business Cycles](http://hsaijo.github.io/files/SmoothDE_0209.pdf) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/))**
+* **[Diagnostic Business Cycles](http://hsaijo.github.io/files/bis.pdf) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/))**
   <br>
   **Review of Economic Studies**, 2024.
 
