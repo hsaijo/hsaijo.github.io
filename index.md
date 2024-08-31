@@ -64,10 +64,10 @@ Pronunciation: He-Ka-Ru Sigh-Joe (Ka as in Kamala)
   
 ## Working Papers
 
-* **[Smooth Diagnostic Expectations](http://hsaijo.github.io/files/SmoothDE_0209.pdf) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/))**, 2024.
+* **[Smooth Diagnostic Expectations](http://hsaijo.github.io/files/SmoothDE_paper.pdf) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/))**, 2024.
 
 
-  Introducing "smooth diagnosticity": agents over-react more to less precise information. Explains stylized facts on over-reaction and over-confidence in surveys, and key features of business cycles. 
+  Introducing Smooth Diagnostic Expectations (Smooth DE), featuring an intrinsic connection between uncertainty and overreaction. We provide novel survey evidence that supports the key prediction of Smooth DE: forecasts overreact more when uncertainty is high. We show Smooth DE explains additional stylized facts on surveys, and key features of business cycles. 
 
 * **Volatility Shocks in Networks (Revised version coming soon)**
 
