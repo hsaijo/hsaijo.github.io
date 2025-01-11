@@ -69,7 +69,7 @@ Pronunciation: He-Ka-Ru Sigh-Joe (Ka as in Kamala)
 
   Introducing Smooth Diagnostic Expectations (Smooth DE), featuring an intrinsic connection between uncertainty and overreaction. We provide novel survey evidence that supports the key prediction of Smooth DE: forecasts overreact more when uncertainty is high. We show Smooth DE explains additional stylized facts on surveys, and key features of business cycles. 
 
-* **Volatility Shocks in Networks (Revised version coming soon)**
+* **[Volatility Shocks in Networks](http://hsaijo.github.io/files/volatility_network.pdf)**, 2025.
 
   I show how sector-specific changes in volatility propagate through input-output networks and affect macroeconomic variables.
 
