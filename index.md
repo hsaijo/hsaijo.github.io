@@ -71,7 +71,7 @@ Pronunciation: He-Ka-Ru Sigh-Joe (Ka as in Kamala)
 
 * **[Volatility Shocks in Networks](http://hsaijo.github.io/files/volatility_network.pdf)**, 2025.
 
-  I show how sector-specific changes in volatility propagate through input-output networks and affect macroeconomic variables.
+  I show that sector-specific volatility shocks propagate through input–output linkages, triggering a *network precautionary pricing multiplier* that amplifies their impact on the entire economy.
 
 
 ## Discussions
