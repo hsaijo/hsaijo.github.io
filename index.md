@@ -66,7 +66,7 @@ Pronunciation: He-Ka-Ru Sigh-Joe (Ka as in Kamala)
 
 * **[Smooth Diagnostic Expectations](http://hsaijo.github.io/files/SmoothDE_paper.pdf) (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/home) and [Cosmin Ilut](https://sites.google.com/site/cosminilut/))**, 2024.
   <br>
-Revise and Resubmit at **Review of Economic Studies**
+Revise and Resubmit at **Review of Economic Studies**.
 
   Introducing Smooth Diagnostic Expectations (Smooth DE), featuring an intrinsic connection between uncertainty and overreaction. We provide novel survey evidence that supports the key prediction of Smooth DE: forecasts overreact more when uncertainty is high. We show Smooth DE explains additional stylized facts on surveys, and key features of business cycles. 
 
