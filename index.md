@@ -335,22 +335,12 @@ layout: null
       <div class="hero-text">
         <h1>Hikaru Saijo</h1>
         <p class="hero-sub">Associate Professor of Economics · <a href="https://economics.ucsc.edu/">UC Santa Cruz</a></p>
-        <p class="pronunciation">He-Ka-Ru Sigh-Joe (Ka as in Kamala)</p>
+        <p class="pronunciation">He-Ka-Ru Sigh-Joe</p>
 
         <div class="hero-bio">
           <p>I study how beliefs, uncertainty, and nonlinearities shape macroeconomic fluctuations. My research combines theoretical insights with econometrics and computational tools, drawing on macro, micro, and survey data.</p>
           <p>Current work spans diagnostic expectations in general equilibrium, volatility propagation through production networks, and deep learning methods for solving high-dimensional macro models.</p>
         </div>
-
-        <div class="hero-links">
-          <a href="/cdn-cgi/l/email-protection#71190210181b1e31041202125f141504"><span class="__cf_email__" data-cfemail="21495240484b4e61544252420f444554">[email&#160;protected]</span></a>
-          <span class="sep">·</span>
-          <a href="https://github.com/hsaijo">GitHub</a>
-          <span class="sep">·</span>
-          <a href="https://scholar.google.com/citations?user=YOUR_ID">Google Scholar</a>
-        </div>
-      </div>
-    </div>
 
     <!-- Interests -->
     <section>
