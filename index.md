@@ -320,7 +320,7 @@ layout: null
         <li><a href="#research">Research</a></li>
         <li><a href="#papers">Working Papers</a></li>
         <li><a href="#discussions">Discussions</a></li>
-        <li><a href="http://hsaijo.github.io/files/CV_saijo.pdf">CV</a></li>
+        <li><a href="http://hsaijo.github.io/files/hikaru_saijo_cv.pdf">CV</a></li>
       </ul>
     </div>
   </nav>
