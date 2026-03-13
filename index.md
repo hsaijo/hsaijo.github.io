@@ -335,8 +335,9 @@ layout: null
         <p class="pronunciation">He-Ka-Ru Sigh-Joe</p>
  
         <div class="hero-bio">
-          <p>I study how beliefs, uncertainty, and nonlinearities shape macroeconomic fluctuations. My research combines theoretical insights with econometrics and computational tools, drawing on macro, micro, and survey data.</p>
-          <p>Current work spans diagnostic expectations in general equilibrium, volatility propagation through production networks, and deep learning methods for solving high-dimensional macro models.</p>
+          <p>I study how beliefs, uncertainty, and nonlinearities shape macroeconomic fluctuations, combining theoretical insights with econometrics and computational tools across macro, micro, and survey data.</p>
+<p>My work has appeared in leading journals such as the <em>Review of Economic Studies</em>, <em>Journal of Monetary Economics</em>, and <em>Journal of Econometrics</em>. Recent research has been supported by the National Science Foundation.</p>
+<p>My current projects span diagnostic expectations in general equilibrium and deep learning methods for solving high-dimensional macro models.</p>
         </div>
  
         <div class="hero-links">
