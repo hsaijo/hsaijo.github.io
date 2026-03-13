@@ -8,11 +8,11 @@ layout: null
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Hikaru Saijo</title>
   <meta name="description" content="Hikaru Saijo is an Associate Professor of Economics at UC Santa Cruz, working on behavioral macroeconomics, diagnostic expectations, and deep learning methods for macro models.">
-
+ 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Karla:wght@300;400;500;600&display=swap" rel="stylesheet">
-
+ 
   <style>
     :root {
       --bg: #fafafa;
@@ -26,33 +26,33 @@ layout: null
       --sans: 'Karla', system-ui, sans-serif;
       --measure: 680px;
     }
-
+ 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
+ 
     html {
       font-size: 16.5px;
       -webkit-font-smoothing: antialiased;
       scroll-behavior: smooth;
     }
-
+ 
     body {
       font-family: var(--sans);
       color: var(--text);
       background: var(--bg);
       line-height: 1.6;
     }
-
+ 
     ::selection { background: var(--accent); color: #fff; }
-
+ 
     a { color: var(--text); text-decoration: none; }
-
+ 
     /* ─── Layout ─── */
     .container {
       max-width: var(--measure);
       margin: 0 auto;
       padding: 0 1.5rem;
     }
-
+ 
     /* ─── Nav ─── */
     nav {
       position: sticky;
@@ -63,7 +63,7 @@ layout: null
       -webkit-backdrop-filter: blur(12px);
       border-bottom: 1px solid var(--rule);
     }
-
+ 
     .nav-inner {
       max-width: var(--measure);
       margin: 0 auto;
@@ -72,19 +72,19 @@ layout: null
       justify-content: space-between;
       align-items: baseline;
     }
-
+ 
     .nav-name {
       font-family: var(--serif);
       font-size: 1.1rem;
       color: var(--text);
     }
-
+ 
     .nav-links {
       list-style: none;
       display: flex;
       gap: 1.5rem;
     }
-
+ 
     .nav-links a {
       font-size: 0.78rem;
       font-weight: 500;
@@ -93,9 +93,9 @@ layout: null
       text-transform: uppercase;
       transition: color 0.15s;
     }
-
+ 
     .nav-links a:hover { color: var(--text); }
-
+ 
     /* ─── Hero ─── */
     .hero {
       padding: 5rem 0 3rem;
@@ -104,7 +104,7 @@ layout: null
       gap: 2rem;
       align-items: start;
     }
-
+ 
     .hero-photo {
       width: 120px;
       height: 120px;
@@ -113,7 +113,7 @@ layout: null
       filter: none;
       border: 2px solid var(--rule);
     }
-
+ 
     .hero-text h1 {
       font-family: var(--serif);
       font-weight: 400;
@@ -121,23 +121,23 @@ layout: null
       line-height: 1.1;
       letter-spacing: -0.02em;
     }
-
+ 
     .hero-sub {
       font-size: 0.88rem;
       color: var(--accent);
       margin-top: 0.3rem;
     }
-
+ 
     .hero-sub a { color: var(--accent); border-bottom: 1px solid transparent; }
     .hero-sub a:hover { border-color: var(--accent); }
-
+ 
     .pronunciation {
       font-size: 0.78rem;
       color: var(--text-3);
       font-style: italic;
       margin-top: 0.15rem;
     }
-
+ 
     .hero-bio {
       margin-top: 1.25rem;
       font-size: 0.92rem;
@@ -145,9 +145,9 @@ layout: null
       line-height: 1.7;
       max-width: 540px;
     }
-
+ 
     .hero-bio p + p { margin-top: 0.75rem; }
-
+ 
     .hero-links {
       margin-top: 1.25rem;
       display: flex;
@@ -155,27 +155,24 @@ layout: null
       flex-wrap: wrap;
       align-items: center;
     }
-
-    .hero-links a {
+ 
+    .hero-links span:not(.sep) {
       font-size: 0.8rem;
       font-weight: 500;
       color: var(--accent);
-      transition: opacity 0.15s;
     }
-
-    .hero-links a:hover { opacity: 0.7; }
-
+ 
     .hero-links .sep {
       color: var(--rule);
       user-select: none;
     }
-
+ 
     /* ─── Sections ─── */
     section {
       padding: 3rem 0;
       border-top: 1px solid var(--rule);
     }
-
+ 
     .section-label {
       font-size: 0.72rem;
       font-weight: 600;
@@ -184,14 +181,14 @@ layout: null
       color: var(--text-3);
       margin-bottom: 2rem;
     }
-
+ 
     /* ─── Interests ─── */
     .interests {
       display: flex;
       flex-wrap: wrap;
       gap: 0.5rem;
     }
-
+ 
     .interest {
       font-size: 0.8rem;
       font-weight: 500;
@@ -200,57 +197,57 @@ layout: null
       border: 1px solid var(--rule);
       border-radius: 3px;
     }
-
+ 
     /* ─── Papers ─── */
     .paper {
       margin-bottom: 2rem;
     }
-
+ 
     .paper:last-child { margin-bottom: 0; }
-
+ 
     .paper-title {
       font-family: var(--serif);
       font-size: 1.12rem;
       font-weight: 400;
       line-height: 1.35;
     }
-
+ 
     .paper-title a { transition: color 0.15s; }
     .paper-title a:hover { color: var(--accent); }
-
+ 
     .paper-meta {
       font-size: 0.82rem;
       color: var(--text-2);
       margin-top: 0.2rem;
       line-height: 1.5;
     }
-
+ 
     .paper-meta a { color: var(--text-2); }
     .paper-meta a:hover { color: var(--accent); }
-
+ 
     .paper-journal {
       font-weight: 600;
       color: var(--text);
     }
-
+ 
     .paper-status {
       color: var(--accent);
       font-weight: 600;
     }
-
+ 
     .paper-abstract {
       font-size: 0.86rem;
       color: var(--text-2);
       margin-top: 0.5rem;
       line-height: 1.65;
     }
-
+ 
     .paper-files {
       margin-top: 0.4rem;
       display: flex;
       gap: 0.75rem;
     }
-
+ 
     .paper-files a {
       font-size: 0.75rem;
       font-weight: 600;
@@ -259,34 +256,34 @@ layout: null
       text-transform: uppercase;
       transition: opacity 0.15s;
     }
-
+ 
     .paper-files a:hover { opacity: 0.7; }
-
+ 
     /* ─── Discussions ─── */
     .disc {
       margin-bottom: 1rem;
       font-size: 0.88rem;
       line-height: 1.55;
     }
-
+ 
     .disc:last-child { margin-bottom: 0; }
-
+ 
     .disc a { font-weight: 500; transition: color 0.15s; }
     .disc a:hover { color: var(--accent); }
-
+ 
     .disc-venue {
       display: block;
       font-size: 0.78rem;
       color: var(--text-3);
       margin-top: 0.1rem;
     }
-
+ 
     /* ─── Footer ─── */
     footer {
       border-top: 1px solid var(--rule);
       padding: 2rem 0 4rem;
     }
-
+ 
     .footer-inner {
       max-width: var(--measure);
       margin: 0 auto;
@@ -294,28 +291,28 @@ layout: null
       font-size: 0.75rem;
       color: var(--text-3);
     }
-
+ 
     /* ─── Mobile ─── */
     @media (max-width: 600px) {
       .hero {
         grid-template-columns: 1fr;
         padding: 3rem 0 2rem;
       }
-
+ 
       .hero-photo {
         width: 96px;
         height: 96px;
       }
-
+ 
       .hero-text h1 { font-size: 1.8rem; }
-
+ 
       .nav-links { gap: 1rem; }
       .nav-links a { font-size: 0.7rem; }
     }
   </style>
 </head>
 <body>
-
+ 
   <nav>
     <div class="nav-inner">
       <span class="nav-name">Hikaru Saijo</span>
@@ -327,28 +324,33 @@ layout: null
       </ul>
     </div>
   </nav>
-
+ 
   <div class="container">
-
+ 
     <div class="hero">
       <img src="https://hsaijo.github.io/assets/img/hsaijo.jpg" alt="Hikaru Saijo" class="hero-photo">
       <div class="hero-text">
         <h1>Hikaru Saijo</h1>
         <p class="hero-sub">Associate Professor of Economics · <a href="https://economics.ucsc.edu/">UC Santa Cruz</a></p>
-        <p class="pronunciation">He-Ka-Ru Sigh-Joe</p>
-
+        <p class="pronunciation">He-Ka-Ru Sigh-Joe (Ka as in Kamala)</p>
+ 
         <div class="hero-bio">
           <p>I study how beliefs, uncertainty, and nonlinearities shape macroeconomic fluctuations. My research combines theoretical insights with econometrics and computational tools, drawing on macro, micro, and survey data.</p>
           <p>Current work spans diagnostic expectations in general equilibrium, volatility propagation through production networks, and deep learning methods for solving high-dimensional macro models.</p>
         </div>
-
-          <div class="hero-links">
-          <span>hsaijo@ucsc.edu</span>
+ 
+        <div class="hero-links">
+          <span id="e1"></span>
           <span class="sep">·</span>
-          <span>hikaru.saijo@gmail.com</span>
+          <span id="e2"></span>
         </div>
       </div>
     </div>
+ 
+    <script>
+      document.getElementById('e1').textContent='hsaijo'+'@'+'ucsc.edu';
+      document.getElementById('e2').textContent='hikaru.saijo'+'@'+'gmail.com';
+    </script>
 
     <!-- Interests -->
     <section>
