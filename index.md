@@ -342,6 +342,14 @@ layout: null
           <p>Current work spans diagnostic expectations in general equilibrium, volatility propagation through production networks, and deep learning methods for solving high-dimensional macro models.</p>
         </div>
 
+          <div class="hero-links">
+          <span>hsaijo@ucsc.edu</span>
+          <span class="sep">·</span>
+          <span>hikaru.saijo@gmail.com</span>
+        </div>
+      </div>
+    </div>
+
     <!-- Interests -->
     <section>
       <div class="section-label">Research Interests</div>
@@ -365,7 +373,7 @@ layout: null
           with <a href="https://sites.google.com/view/francescobianchi/home">Francesco Bianchi</a> &amp; <a href="https://sites.google.com/site/cosminilut/">Cosmin Ilut</a><br>
           <span class="paper-journal">Review of Economic Studies</span>, 2024
         </div>
-        <p class="paper-abstract">A theoretical and methodological framework for applying diagnostic expectations to recursive macro models, focusing on memory recall from the distant past.</p>
+        <p class="paper-abstract">We develop theoretical and methodological framework to apply diagnostic expectations to a large class of recursive macro models, with a focus on implications of memory recall based on distant past.</p>
         <div class="paper-files">
           <a href="http://hsaijo.github.io/files/BIS.pdf">Paper</a>
           <a href="http://hsaijo.github.io/files/BIS_appendix.pdf">Appendix</a>
@@ -378,7 +386,7 @@ layout: null
           with <a href="https://sites.google.com/site/cosminilut/">Cosmin Ilut</a><br>
           <span class="paper-journal">Journal of Monetary Economics</span>, 2021
         </div>
-        <p class="paper-abstract">A new propagation mechanism based on firm-level confidence dynamics that challenges and improves upon standard New Keynesian frictions.</p>
+        <p class="paper-abstract">We propose a new propagation mechanism based on firm-level confidence dynamics that challenges and improves upon standard New Keynesian frictions.</p>
         <div class="paper-files">
           <a href="http://hsaijo.github.io/files/ilut_saijo.pdf">Paper</a>
           <a href="http://hsaijo.github.io/files/ilut_saijo_appendix.pdf">Appendix</a>
@@ -390,7 +398,7 @@ layout: null
         <div class="paper-meta">
           <span class="paper-journal">International Economic Review</span>, 2020
         </div>
-        <p class="paper-abstract">Ambiguity aversion and limited capital market participation magnify fiscal uncertainty shocks because concerns about redistribution have first-order effects on economic activity.</p>
+        <p class="paper-abstract">The interaction of ambiguity aversion and limited capital market participation magnifies the impact of fiscal uncertainty shocks on economic activity because concerns about redistribution have first-order effects.</p>
         <div class="paper-files">
           <a href="http://hsaijo.github.io/files/policy_uncertainty.pdf">Paper</a>
           <a href="http://hsaijo.github.io/files/policy_uncertainty_appendix.pdf">Appendix</a>
@@ -402,10 +410,10 @@ layout: null
         <div class="paper-meta">
           <span class="paper-journal">Review of Economic Dynamics</span>, 2019
         </div>
-        <p class="paper-abstract">Household-level labor supply responses to technology shocks are inconsistent with the sticky price view of the business cycle, contrary to aggregate evidence.</p>
+        <p class="paper-abstract">Contrary to the aggregate evidence, labor supply responses to technology shocks at the household level indicate that the data is inconsistent with the sticky price view of the business cycle.</p>
         <div class="paper-files">
           <a href="http://hsaijo.github.io/files/hours.pdf">Paper</a>
-          <a href="http://hsaijo.github.io/files/hours_wp.pdf">Working Paper</a>
+          <a href="http://hsaijo.github.io/files/hours_wp.pdf">Working paper version with additional results</a>
         </div>
       </div>
 
@@ -414,7 +422,7 @@ layout: null
         <div class="paper-meta">
           <span class="paper-journal">Journal of Economic Dynamics and Control</span>, 2017
         </div>
-        <p class="paper-abstract">A dynamic general equilibrium model where agents learn about macro fundamentals through investment. Endogenously countercyclical uncertainty amplifies output fluctuations by 16%.</p>
+        <p class="paper-abstract">A dynamic general equilibrium model where agents learn about macro fundamentals through investment. The endogenously countercyclical uncertainty amplifies output fluctuations by 16%.</p>
         <div class="paper-files">
           <a href="http://hsaijo.github.io/files/uncertainty_multiplier.pdf">Paper</a>
         </div>
@@ -425,7 +433,9 @@ layout: null
         <div class="paper-meta">
           <span class="paper-journal">Journal of Econometrics</span>, 2013
         </div>
-        <p class="paper-abstract">Estimating DSGE models using seasonally adjusted data leads to sizeable distortions in estimated parameters.</p>
+        <p class="paper-abstract">
+        The common practice of estimating dynamic stochastic general equilibrium (DSGE) models using seasonally adjusted data leads to sizeable distortions in estimated parameters.
+        </p>
         <div class="paper-files">
           <a href="http://hsaijo.github.io/files/seasonal_DSGE.pdf">Paper</a>
           <a href="http://hsaijo.github.io/files/seasonal_DSGE_appendix.pdf">Appendix</a>
@@ -437,7 +447,7 @@ layout: null
         <div class="paper-meta">
           <span class="paper-journal">The B.E. Journal of Macroeconomics</span>, 2008
         </div>
-        <p class="paper-abstract">Cartelization-driven markup increases explain a substantial fraction of Japan's weak recovery from the Great Depression.</p>
+        <p class="paper-abstract">The increase in markups due to cartelization can explain a substantial fraction of Japan's weak recovery from the Great Depression.</p>
         <div class="paper-files">
           <a href="http://hsaijo.github.io/files/japanese_depression.pdf">Paper</a>
         </div>
@@ -455,7 +465,7 @@ layout: null
           with <a href="https://sites.google.com/view/francescobianchi/home">Francesco Bianchi</a> &amp; <a href="https://sites.google.com/site/cosminilut/">Cosmin Ilut</a><br>
           <span class="paper-status">R&amp;R</span> · <span class="paper-journal">Review of Economic Studies</span>, 2025.
         </div>
-        <p class="paper-abstract">Smooth Diagnostic Expectations feature an intrinsic connection between uncertainty and overreaction. Novel survey evidence supports the key prediction: forecasts overreact more when uncertainty is high.</p>
+        <p class="paper-abstract">Introducing Smooth Diagnostic Expectations (Smooth DE), featuring an intrinsic connection between uncertainty and overreaction. We provide novel survey evidence that supports the key prediction of Smooth DE: forecasts overreact more when uncertainty is high. We show Smooth DE explains additional stylized facts on surveys, and key features of business cycles.</p>
         <div class="paper-files">
           <a href="http://hsaijo.github.io/files/SmoothDE_paper.pdf">Paper</a>
         </div>
@@ -464,7 +474,8 @@ layout: null
       <div class="paper">
         <div class="paper-title"><a href="http://hsaijo.github.io/files/volatility_network.pdf">Volatility Shocks in Networks</a></div>
         <div class="paper-meta">2025</div>
-        <p class="paper-abstract">Sector-specific volatility shocks propagate through input–output linkages, triggering a network precautionary pricing multiplier that amplifies their impact on the entire economy.</p>
+        <p class="paper-abstract">I show that sector-specific volatility shocks propagate through input–output linkages, triggering a network precautionary pricing multiplier that amplifies their impact on the entire economy.</p>
+        
         <div class="paper-files">
           <a href="http://hsaijo.github.io/files/volatility_network.pdf">Paper</a>
         </div>
