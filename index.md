@@ -336,7 +336,8 @@ layout: null
  
         <div class="hero-bio">
           <p>I study how beliefs, uncertainty, and nonlinearities shape macroeconomic fluctuations, combining theoretical insights with econometrics and computational tools across macro, micro, and survey data.</p>
-<p>My current projects span diagnostic expectations in general equilibrium and deep learning methods for solving high-dimensional macro models.</p>
+          <p>My work has appeared in leading journals such as the <em>Review of Economic Studies</em>, <em>Journal of Monetary Economics</em>, and <em>Journal of Econometrics</em>, with support from the National Science Foundation.</p>
+<p>Current projects span diagnostic expectations in general equilibrium and deep learning methods for solving high-dimensional macro models.</p>
         </div>
  
         <div class="hero-links">
