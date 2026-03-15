@@ -317,7 +317,7 @@ layout: null
     <div class="nav-inner">
       <span class="nav-name">Hikaru Saijo</span>
       <ul class="nav-links">
-        <li><a href="#research">Research</a></li>
+        <li><a href="#research">Publications</a></li>
         <li><a href="#papers">Working Papers</a></li>
         <li><a href="#discussions">Discussions</a></li>
         <li><a href="http://hsaijo.github.io/files/hikaru_saijo_cv.pdf">CV</a></li>
@@ -331,8 +331,8 @@ layout: null
       <img src="https://hsaijo.github.io/assets/img/hsaijo.jpg" alt="Hikaru Saijo" class="hero-photo">
       <div class="hero-text">
         <h1>Hikaru Saijo</h1>
-        <p class="hero-sub">Associate Professor of Economics · <a href="https://economics.ucsc.edu/">UC Santa Cruz</a></p>
-        <p class="hero-sub">PhD, University of Pennsylvania</p>
+        <p class="hero-sub">Associate Professor of Economics · UC Santa Cruz</p>
+        <p class="hero-sub">PhD · University of Pennsylvania</p>
         <p class="pronunciation">He-Ka-Ru Sigh-Joe</p>
  
         <div class="hero-bio">
