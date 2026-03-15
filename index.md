@@ -332,11 +332,12 @@ layout: null
       <div class="hero-text">
         <h1>Hikaru Saijo</h1>
         <p class="hero-sub">Associate Professor of Economics · <a href="https://economics.ucsc.edu/">UC Santa Cruz</a></p>
+        <p class="hero-sub">PhD, University of Pennsylvania</p>
         <p class="pronunciation">He-Ka-Ru Sigh-Joe</p>
  
         <div class="hero-bio">
           <p>I study how beliefs, uncertainty, and nonlinearities shape macroeconomic fluctuations, combining theoretical insights with econometrics and computational tools across macro, micro, and survey data.</p>
-          <p>My work has appeared in leading journals such as the <em>Review of Economic Studies</em>, <em>Journal of Monetary Economics</em>, and <em>Journal of Econometrics</em>. Recent work has been supported from the National Science Foundation.</p>
+          <p>My work has appeared in journals such as the <em>Review of Economic Studies</em>, <em>Journal of Monetary Economics</em>, and <em>Journal of Econometrics</em>. Recent work has been supported from the National Science Foundation.</p>
 <p>Current projects span diagnostic expectations in general equilibrium and deep learning methods for solving high-dimensional macro models.</p>
         </div>
  
