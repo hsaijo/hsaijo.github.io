@@ -317,8 +317,8 @@ layout: null
     <div class="nav-inner">
       <span class="nav-name">Hikaru Saijo</span>
       <ul class="nav-links">
-        <li><a href="#research">Publications</a></li>
-        <li><a href="#papers">Working Papers</a></li>
+        <li><a href="#publications">Publications</a></li>
+        <li><a href="#wp">Working Papers</a></li>
         <li><a href="#discussions">Discussions</a></li>
         <li><a href="http://hsaijo.github.io/files/hikaru_saijo_cv.pdf">CV</a></li>
       </ul>
@@ -331,9 +331,10 @@ layout: null
       <img src="https://hsaijo.github.io/assets/img/hsaijo.jpg" alt="Hikaru Saijo" class="hero-photo">
       <div class="hero-text">
         <h1>Hikaru Saijo</h1>
+        <p class="pronunciation">He-Ka-Ru Sigh-Joe</p>
         <p class="hero-sub">Associate Professor of Economics · UC Santa Cruz</p>
         <p class="hero-sub">PhD · University of Pennsylvania</p>
-        <p class="pronunciation">He-Ka-Ru Sigh-Joe</p>
+        
  
         <div class="hero-bio">
           <p>I study how beliefs, uncertainty, and nonlinearities shape macroeconomic fluctuations, combining theoretical insights with econometrics and computational tools across macro, micro, and survey data.</p>
@@ -368,7 +369,7 @@ layout: null
     </section>
 
     <!-- Publications -->
-    <section id="research">
+    <section id="publications">
       <div class="section-label">Publications</div>
 
       <div class="paper">
@@ -460,7 +461,7 @@ layout: null
     </section>
 
     <!-- Working Papers -->
-    <section id="papers">
+    <section id="wp">
       <div class="section-label">Working Papers</div>
 
       <div class="paper">
