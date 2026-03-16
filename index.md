@@ -477,6 +477,14 @@ layout: null
       </div>
 
       <div class="paper">
+  <div class="paper-title">Macroeconomic Effects of Production Networks: A Deep Learning Approach</div>
+  <div class="paper-meta">
+    with <a href="https://www.sas.upenn.edu/~jesusfv/">Jesús Fernández-Villaverde</a>, <a href="https://cm1518.github.io/">Christian Matthes</a> &amp; <a href="https://sites.google.com/view/felipeschwartzman">Felipe Schwartzman</a><br>
+    2026
+  </div>
+</div>
+
+      <div class="paper">
         <div class="paper-title"><a href="http://hsaijo.github.io/files/volatility_network.pdf">Volatility Shocks in Networks</a></div>
         <div class="paper-meta">2025</div>
         <p class="paper-abstract">I show that sector-specific volatility shocks propagate through input–output linkages, triggering a network precautionary pricing multiplier that amplifies their impact on the entire economy.</p>
