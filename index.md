@@ -384,7 +384,7 @@ layout: null
         <div class="paper-title"><a href="http://hsaijo.github.io/files/SmoothDE_paper.pdf">Smooth Diagnostic Expectations</a></div>
         <div class="paper-meta">
           with <a href="https://sites.google.com/view/francescobianchi/home">Francesco Bianchi</a> &amp; <a href="https://sites.google.com/site/cosminilut/">Cosmin Ilut</a><br>
-          <span class="paper-status">Forthcoming</span> · <span class="paper-journal">Review of Economic Studies</span>, 2025.
+          <span class="paper-status">Forthcoming</span> · <span class="paper-journal">Review of Economic Studies</span>, 2026.
         </div>
         <p class="paper-abstract">Introducing Smooth Diagnostic Expectations (Smooth DE), featuring an intrinsic connection between uncertainty and overreaction. We provide novel survey evidence that supports the key prediction of Smooth DE: forecasts overreact more when uncertainty is high. We show Smooth DE explains additional stylized facts on surveys, and key features of business cycles.</p>
         <div class="paper-files">
